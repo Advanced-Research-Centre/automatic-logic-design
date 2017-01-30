@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nvar
+comment0.target=GP_LogicGates(int)
+comment1.params=d\ s
+comment1.target=java.lang.StringBuffer\ addFT(int,\ java.lang.StringBuffer)
+comment2.params=chmsm
+comment2.target=int\ fitns(java.lang.String)
+comment3.params=
+comment3.target=int\ slctn()
+comment4.params=
+comment4.target=void\ crsvr()
+comment5.params=
+comment5.target=void\ mutet()
+numComments=6

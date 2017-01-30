@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=v1\ v2
+comment0.target=java.lang.StringBuffer\ f1(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment1.params=v1\ v2
+comment1.target=java.lang.StringBuffer\ f2(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment2.params=v1\ v2
+comment2.target=java.lang.StringBuffer\ f3(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment3.params=v1\ v2
+comment3.target=java.lang.StringBuffer\ f4(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment4.params=v1\ v2
+comment4.target=java.lang.StringBuffer\ f5(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment5.params=v1\ v2
+comment5.target=java.lang.StringBuffer\ f6(java.lang.StringBuffer,\ java.lang.StringBuffer)
+numComments=6

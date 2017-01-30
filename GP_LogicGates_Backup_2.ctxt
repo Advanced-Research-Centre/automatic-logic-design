@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=nvar
+comment0.target=void\ initT(int)
+comment1.params=d\ s
+comment1.target=java.lang.StringBuffer\ addFT(int,\ java.lang.StringBuffer)
+comment2.params=fneq
+comment2.target=java.lang.StringBuffer\ evaltr(java.lang.StringBuffer)
+comment3.params=nvar\ popsz\ dmx
+comment3.target=void\ main(int,\ int,\ int)
+comment4.params=v1\ v2
+comment4.target=java.lang.StringBuffer\ f1(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment5.params=v1\ v2
+comment5.target=java.lang.StringBuffer\ f2(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment6.params=v1\ v2
+comment6.target=java.lang.StringBuffer\ f3(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment7.params=v1\ v2
+comment7.target=java.lang.StringBuffer\ f4(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment8.params=v1\ v2
+comment8.target=java.lang.StringBuffer\ f5(java.lang.StringBuffer,\ java.lang.StringBuffer)
+comment9.params=v1\ v2
+comment9.target=java.lang.StringBuffer\ f6(java.lang.StringBuffer,\ java.lang.StringBuffer)
+numComments=10
